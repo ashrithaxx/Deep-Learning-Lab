@@ -1,6 +1,6 @@
 # Implementation of a Multi-Layer Perceptron
 
-A TensorFlow/Keras implementation of a Multi-Layer Perceptron (MLP) for multi-class image classification on the Fashion-MNIST dataset. This project includes data preprocessing, baseline model training, hyperparameter optimization using RandomizedSearchCV (SciKeras), and performance evaluation.
+A TensorFlow/Keras implementation of a Multi-Layer Perceptron (MLP) for multi-class image classification on the Fashion-MNIST dataset.
 
 ## Features
 
