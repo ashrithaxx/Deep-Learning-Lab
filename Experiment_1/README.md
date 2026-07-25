@@ -5,7 +5,7 @@ Implementation of a Single Layer Perceptron from scratch for binary classificati
 ## Files
 
 - `DL1.ipynb` – Notebook implementation
-- `Single Layer Perceptron report.pdf` – Lab report
+- `Experiment_1.pdf` – Lab report
 - `requirements.txt` – Python dependencies
 
 ## Run
