@@ -1,26 +1,20 @@
-# Single Layer Perceptron
+# Experiment 1 – Single Layer Perceptron
 
-An implementation of a Single Layer Perceptron for binary classification using the Banknote Authentication dataset. It includes data preprocessing, exploratory data analysis, model training, evaluation, and comparison of different learning rates.
+Implementation of a Single Layer Perceptron from scratch for binary classification using the Banknote Authentication dataset.
 
-## Features
+## Files
 
-- Exploratory Data Analysis (EDA)
-- Feature normalization
-- Perceptron implementation from scratch
-- Model evaluation (Accuracy, Precision, Recall, F1-score)
-- Learning rate comparison
-- Decision boundary and training visualizations
+- `DL1.ipynb` – Notebook implementation
+- `Single Layer Perceptron report.pdf` – Lab report
+- `requirements.txt` – Python dependencies
 
-## Tech Stack
+## Run
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
+```bash
+pip install -r requirements.txt
+jupyter notebook DL1.ipynb
+```
 
-## Results
+## Accuracy
 
-- Dataset: Banknote Authentication (UCI)
-- Test Accuracy: **97%**
-- Demonstrates effective classification of linearly separable data using a Single Layer Perceptron.
+**97%** test accuracy.
