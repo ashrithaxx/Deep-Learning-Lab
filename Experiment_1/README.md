@@ -15,6 +15,7 @@ pip install -r requirements.txt
 jupyter notebook DL1.ipynb
 ```
 
-## Accuracy
+## Results
 
 **97%** test accuracy.
+XOR gate does not converge as it cannot be classified by a linearly seperable boundary
