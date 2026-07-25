@@ -1,4 +1,4 @@
-# Experiment 1 – Single Layer Perceptron
+# Single Layer Perceptron
 
 Implementation of a Single Layer Perceptron from scratch for binary classification using the Banknote Authentication dataset.
 
