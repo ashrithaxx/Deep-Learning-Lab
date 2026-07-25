@@ -1,6 +1,6 @@
 # Deep Learning Lab
 
-A collection of my Deep Learning Laboratory experiments and practical implementations completed as part of my coursework.
+Deep learning laboratory experiments with implementations, analysis and reports.
 
 ## Tech Stack
 
