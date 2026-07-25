@@ -1,21 +1,23 @@
 # Single Layer Perceptron
 
-Implementation of a Single Layer Perceptron from scratch for binary classification using the Banknote Authentication dataset.
+An implementation of a Single Layer Perceptron for binary classification using the Banknote Authentication dataset.
 
-## Files
+## Features
 
-- `DL1.ipynb` – Notebook implementation
-- `Experiment_1.pdf` – Lab report
-- `requirements.txt` – Python dependencies
+- Data preprocessing and normalization
+- Single Layer Perceptron implementation from scratch
+- Model evaluation (Accuracy, Precision, Recall, F1-score)
+- Decision boundary and training visualizations
 
-## Run
+## Tech Stack
 
-```bash
-pip install -r requirements.txt
-jupyter notebook DL1.ipynb
-```
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
 
 ## Results
 
-**97%** test accuracy.
-XOR gate does not converge as it cannot be classified by a linearly seperable boundary
+- Test Accuracy: **97%**
+- XOR gate does not converge as it cannot be classified by a linearly seperable boundary.
