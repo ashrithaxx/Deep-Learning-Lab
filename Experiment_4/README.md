@@ -40,6 +40,3 @@ A TensorFlow/Keras implementation of transfer learning using MobileNetV2 for mul
 ```bash
 pip install -r requirements.txt
 ```
-
-```bash
-pip install -r requirements.txt
